@@ -1,5 +1,4 @@
 
-********* -  25 July 2022 -  Mihai Stefan ************
 
 For this project I have also created a video to 
   see some steps! ( this video is private, you can only view it if you have the link )
